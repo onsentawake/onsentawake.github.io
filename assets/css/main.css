@@ -2989,12 +2989,13 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
+			background-color: #fff;
 			background-image: url(../../images/nagoyafun1.jpg);
 			color: #8a8686;
 			background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
