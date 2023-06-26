@@ -1,4 +1,4 @@
-![Open in Gitpod](https://gitpod.io/#https://github.com/onsentawake/onsentawake)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/onsentawake/onsentawake.github.io)
 
 
 ## Welcome to GitHub Pages
